@@ -9,9 +9,6 @@
          padding-top: 20px;
          padding-bottom: 20px;
          }
-         textarea {
-         column-count: 100 !important;
-         }
       </style>
       <script>
       </script>
